@@ -5,7 +5,7 @@
 YouTube - https://www.youtube.com/@samuelmatioli
 Linkedin - https://www.linkedin.com/in/samuelmatioli/
 
-## Introdução
+## Tópicos
 
 - O que é o Langflow?
 - O que é RAG?
